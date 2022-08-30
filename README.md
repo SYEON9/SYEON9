@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning NLP
-- 🌱 I’m currently working on MRC
+- I'm Data Analyst.
+- 🔭 I’m currently learning NLP. 
+- 🌱 I’m currently working on MRC.
+
 
 
 ### How to reach me?🤔
